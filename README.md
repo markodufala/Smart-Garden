@@ -1,2 +1,2 @@
 # Smart-Garden
-*-in progress-*
+*in progress*
